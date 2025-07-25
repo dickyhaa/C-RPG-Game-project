@@ -1,0 +1,30 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+
+# Build directories
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# Game save files (optional - you might want to include account.txt)
+account.txt
